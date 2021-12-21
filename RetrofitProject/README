@@ -1,0 +1,7 @@
+В проекте проверяются следующие endpoint:
+
+GET /api/v1/products Returns products
+POST /api/v1/products Creates a new product
+PUT /api/v1/products Modify product
+GET /api/v1/products/{id} Returns a specific product by their identifier
+DELETE /api/v1/products/{id} Delete product
